@@ -1,0 +1,34 @@
+# Archivos y directorios generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Dependencias y bibliotecas
+/target/
+/lib/
+
+# Configuración y archivos de compilación
+*.class
+*.war
+*.jar
+*.ear
+*.zip
+
+# Logs
+/log/
+*.log
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# Archivos de configuración local
+application.properties
+
+# Eclipse IDE
+.metadata/
+bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
